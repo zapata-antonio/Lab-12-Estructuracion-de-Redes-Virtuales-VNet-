@@ -1,4 +1,4 @@
-# Lab-13-Estructuracion-de-Redes-Virtuales-VNet-
+# Lab-12-Estructuracion-de-Redes-Virtuales-VNet-
 
 
 ## Objetivo
