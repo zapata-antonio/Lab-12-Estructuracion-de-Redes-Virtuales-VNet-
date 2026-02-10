@@ -32,9 +32,9 @@ Montar una red en Azure con una estructura clara y separada por subredes, para p
 
 
 ## Checklist de verificación
-- [ ] VNet creada con 10.0.0.0/16
-- [ ] Subnets /24 correctamente asignadas (FrontEnd y BackEnd)
-- [ ] VM FrontEnd dentro de su subnet y VM BackEnd dentro de su subnet
+- [x] VNet creada con 10.0.0.0/16
+- [x] Subnets /24 correctamente asignadas (FrontEnd y BackEnd)
+- [x] VM FrontEnd dentro de su subnet y VM BackEnd dentro de su subnet
 
 ## Qué le diría a un cliente / en entrevista
 “Separar en subredes es la base para controlar tráfico y reducir riesgos. Puedo aplicar reglas distintas por zona y limitar el movimiento lateral. Luego, sobre esta estructura, es más fácil añadir NSGs, rutas, Bastion o Private Endpoints según el caso.”
