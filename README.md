@@ -28,6 +28,8 @@ Montar una red en Azure con una estructura clara y separada por subredes, para p
 
 ### 03 - VMs desplegadas en su subred correspondiente
 [<img src="images/03-vms-subnet.png" width="800">](images/03-vms-subnet.png)
+> Vista de dispositivos conectados a la VNet mostrando las NICs asociadas a cada subnet (FrontEnd y BackEnd).
+
 
 ## Checklist de verificación
 - [ ] VNet creada con 10.0.0.0/16
